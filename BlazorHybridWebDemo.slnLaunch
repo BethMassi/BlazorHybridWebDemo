@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlazorHybridWebDemo\\BlazorHybridWebDemo\\BlazorHybridWebDemo.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorHybridWebDemo\\BlazorHybridWebDemo.Web\\BlazorHybridWebDemo.Web.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
